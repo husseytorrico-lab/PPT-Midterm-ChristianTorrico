@@ -1,0 +1,7 @@
+STUDENT RECORD
+
+Name: Christian Torrico
+Course: BSCSSE
+Year Level: 2nd Year
+Favorite Programming Language: Java & Python 
+Career Goal: To become Mobile App Developer
